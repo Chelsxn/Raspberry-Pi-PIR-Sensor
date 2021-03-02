@@ -8,4 +8,4 @@ Requires:
 
 1 x PIR Motion Sensor
 
-SQL Portion is optional
+SQL Portion is optional, comment out if not required
